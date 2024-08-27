@@ -1,0 +1,77 @@
+.nav{
+   height: 80px;
+   background-color:#fff;
+   justify-content: space-around; 
+   align-items: center;
+   border:  1px solid #cdc3e6;
+}
+.nav img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: 2px solid #cdc3e6;
+}
+ i{
+    font-size: 1.5rem;
+}
+.boton{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:  1px solid #cdc3e6;
+}
+.boton a{
+    background-color: #cdc3e6;
+}
+.contactos img{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: 2px solid #cdc3e6;
+}
+.contactos{
+    height: 80px;
+    background-color:#fff;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    border:  1px solid #cdc3e6;
+}
+.col-9{
+   
+    background-color:#e8ebe4 ;
+    
+}
+.col-9 img{
+    width: 280px;
+    height: 280px;
+}
+.logo{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+.comienza{
+    height: 400px;
+    text-align: center;
+}
+
+h5{
+    margin: 0;
+
+}
+p{
+    margin: 0;
+}
+.col-3 h5{
+text-align: start;
+}
+.col-3 p{
+    text-align: start;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+}
